@@ -2,6 +2,11 @@
 
 A responsive concept website for a Europe-only destination management company. The positioning is deliberately clear: no standard packages, no catalogue itineraries, and every journey designed around the client.
 
+## Links
+
+- Live website: [https://ruisilva-bit.github.io/tailored-europe-dmc/](https://ruisilva-bit.github.io/tailored-europe-dmc/)
+- GitHub repository: [ruisilva-bit/tailored-europe-dmc](https://github.com/ruisilva-bit/tailored-europe-dmc)
+
 ## Live scope
 
 - Entire website is written in English.
